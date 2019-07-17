@@ -31,9 +31,9 @@
 자원 사용량(Utilization)  |  자원(CPU, 메모리 등)들의 용량 중 실제 사용하고 있는 값의 비율  |  %  |  높임
 효율성(Efficiency)  |  시간당 처리량을 자원사용량 또는 비용으로 나눈 값  |  %, tpmC  |  높임
 
-* TPS: Transactions Per Seconds, 초당 트랜잭션 처리건수
-* OPS: Operations Per Seconds, 초당 요청 처리건수
-* tpmC: transctions per minute per Cost, 단위 비용당 분당 처리건수
+  - TPS: Transactions Per Seconds, 초당 트랜잭션 처리건수
+  - OPS: Operations Per Seconds, 초당 요청 처리건수
+  - tpmC: transctions per minute per Cost, 단위 비용당 분당 처리건수
 
 모니터링 지표와 예측 모형
 -----------------------
