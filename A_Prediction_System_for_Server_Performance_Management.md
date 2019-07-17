@@ -35,8 +35,27 @@
   - OPS: Operations Per Seconds, 초당 요청 처리건수
   - tpmC: transctions per minute per Cost, 단위 비용당 분당 처리건수
 
+> 시계열 예측(Time Series Prediction)은 주어진 시계열을 보고 수학적인 모델을
+> 만들어서 미래에 일어날 것들을 예측하는 것
+
 모니터링 지표와 예측 모형
 -----------------------
+1. 모니터링 지표 분류
+* 모니터링 지표(2차)
+
+분야  |  감시항목  |  항목개수
+--  |  --  |  --
+CPU  |  CPU Min, Max, Average 사용량 |  3
+Memory  |  Memory Min, Max, Average 사용량 |  3
+디스크  |  Device별 Disk Min, Max, Average 사용량 |  3
+프로세스  |  Instance별 CPU(Min, Max) 사용량, Memory(Min, Max) 사용량, Process down, Operating System 감시 |  6
+네트워크  |  Instance별 Send, Send error, Receive, Receive error, Collision, Ping 여부, Channel down, Node down, 서비스 포트  |  9
+응용 프로그램  |  Service별 시도호, 성공호, 성공률, 성공 및 오류 코드 횟수, 평균 응답 시간, 응답 시간별 성공호의 수, Service별 동시 접속 Users, 서비스 Daemon down, Agent 감시, 사용자 세션 |  11
+
+분야  |  가설
+
+* 지표별 임계치
+
 
 서버 장애 예측 시스템
 --------------------
