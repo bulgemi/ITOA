@@ -52,7 +52,13 @@ Memory  |  Memory Min, Max, Average 사용량 |  3
 네트워크  |  Instance별 Send, Send error, Receive, Receive error, Collision, Ping 여부, Channel down, Node down, 서비스 포트  |  9
 응용 프로그램  |  Service별 시도호, 성공호, 성공률, 성공 및 오류 코드 횟수, 평균 응답 시간, 응답 시간별 성공호의 수, Service별 동시 접속 Users, 서비스 Daemon down, Agent 감시, 사용자 세션 |  11
 
-분야  |  가설
+2. 모니터링 지표에 대한 가설 및 검증
+* 모니터링 지표(최종)
+
+
+분야  |  가설 요약  |  유효항목
+--  |  --  |  --
+CPU, Memory, Disk 등  |  1.Peak 시간 CPU 사용 2.Peak 시간 Memory 사용율 3.전체 Disk 사용율  |  가설 1
 
 * 지표별 임계치
 
