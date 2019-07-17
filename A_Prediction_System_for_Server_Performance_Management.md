@@ -77,7 +77,7 @@ Peak시간 CPU 사용율  |  Max 55% 이상, Avg 30% 이상  |  허용치 범위
 1. 구축환경
 > 서버 장애 모니터링을 위하여 오픈 소스 Ganglia와 수집 데이터의 실시간 전송을 위한 Esper를 작용.
 > 분석을 위한 빅데이터 분석 플랫폼 Hadoop 기반으로 구성.
-* 모니터링 데이터를 수집하기 위하여 오픈 소스인 Ganglia 3.6.X<http://ganglia.sourceforge.net/>
+* 모니터링 데이터를 수집하기 위하여 오픈 소스인 Ganglia 3.6.X(<http://ganglia.sourceforge.net/>)
 * HDFS(Hadoop Distribution File System)
 * 개발 플랫폼 구성: hadoop 2.2.X, hive 0.12.X, pig 0.1.2.X
 * 빅데이터 분석과 시각화: SAS 9.1.2
