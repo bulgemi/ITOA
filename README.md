@@ -10,7 +10,10 @@
 
 자료
 ----
-
 1. [IT 인프라 장애, 빅데이터 분석으로 미리 예측할 수 있다](https://github.com/bulgemi/ITOA/blob/master/LG_CNS_20150528.md)
 2. [인공지능에 필요한 서버 인프라에 직면하게 되는 난관](https://github.com/bulgemi/ITOA/blob/master/IDC_201709.md)
 3. ['1만 대 서버 관리는 머신러닝에 맡겼다'한 데이터센터 기업 사례](https://github.com/bulgemi/ITOA/blob/master/ciokorea_20190712.md)
+
+S/W
+---
+1. [ELASTIC STACK](https://github.com/bulgemi/ITOA/blob/master/elastic_stack.md)
