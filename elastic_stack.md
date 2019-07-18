@@ -2,7 +2,6 @@ ELASTIC STACK
 =============
 X-Pack
 ------
-
 * [ELASTIC STACK 기계학습](https://www.elastic.co/kr/what-is/elastic-stack-machine-learning)
 * [ELASTIC STACK 분석항목](https://www.elastic.co/kr/products/stack/machine-learning/recipes)
 
