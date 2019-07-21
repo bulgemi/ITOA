@@ -56,6 +56,7 @@
 * 프레임워크 구조 및 동작
 ![프레임워크 전체 구조](https://github.com/bulgemi/ITOA/blob/master/프레임워크_전체_구조.PNG)
 > 데이터 준비(Data Preparation), 모델 최적화 및 선택(Model Optimization & Selection), 예측(Prediction) 모듈로 구성.
+
 ![프레임워크 동작 과정](https://github.com/bulgemi/ITOA/blob/master/프레임워크_동작_과정.PNG)
 > 프레임워크는 시스템 자원을 모니터링하여 장애 및 정상 상태에서의 시스템 데이터 주기적 수집.
 > 수집된 데이터들은 전처리하여 최적화된 후 예측 모델 생성, 실시간 수집 데이터는 예측에 사용
