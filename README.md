@@ -1,5 +1,5 @@
-인프라 운영 자동화 관련 자료
-===============================
+인프라 운영 지능화
+===============
 논문
 ----
 1. [서버 성능 관리를 위한 장애 예측 시스템](https://github.com/bulgemi/ITOA/blob/master/A_Prediction_System_for_Server_Performance_Management.md)
@@ -14,7 +14,6 @@
 2. [인공지능에 필요한 서버 인프라에 직면하게 되는 난관](https://github.com/bulgemi/ITOA/blob/master/IDC_201709.md)
 3. ['1만 대 서버 관리는 머신러닝에 맡겼다'한 데이터센터 기업 사례](https://github.com/bulgemi/ITOA/blob/master/ciokorea_20190712.md)
 
-솔루션
-------
-1. [ELASTIC STACK](https://github.com/bulgemi/ITOA/blob/master/elastic_stack.md)
-2. [brainzsquare](https://github.com/bulgemi/ITOA/blob/master/brainzsquare.md)
+관련 자료 조사
+-------------
+* [인프라 운영 지능화 관련 자료](https://github.com/bulgemi/ITOA/blob/master/참고자료.md)
